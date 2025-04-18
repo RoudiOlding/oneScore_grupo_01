@@ -7,3 +7,6 @@ OneScore es un aplicativo movil diseñado para los amantes de la música, críti
 - Camayo Ramos, Sebastián Enrique
 - La Torre Llusera, Oscar Joaquin
 - Cuella Contrerras, Luis Angel
+
+### Diagrama de clases:
+![Diagrama de clases](imgs/diagramaClases.jpg)
