@@ -10,3 +10,4 @@ OneScore es un aplicativo movil diseñado para los amantes de la música, críti
 
 ### Diagrama de clases:
 ![Diagrama de clases](imgs/diagramaClases.jpg)
+Diagrama de clases de OneScore

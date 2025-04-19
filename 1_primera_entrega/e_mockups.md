@@ -1,1 +1,1 @@
-## E. Descripción de casos de uso (incluye mockups)
+## e. Descripción de casos de uso (incluye mockups)
