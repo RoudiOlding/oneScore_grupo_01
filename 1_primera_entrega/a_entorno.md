@@ -32,8 +32,24 @@
      ```
         ![Añadir Path](../imgs/path.png)
 
+        
+### **Visual Studio Code**
+1. **Descargar la extension de Flutter**
+- Abrir el Visual studio Code y ubicar la opcion de extensiones.
+     <p align="center">
+  <img src="../imgs/Extensiones_visio.png" alt="Extension visio" width="50"/>
+  </p>
 
----
+- Ubicar la extension de flutter y instalar
+     <p align="center">
+  <img src="../imgs/Extension_flutter.png" alt="Extension visio" width="300"/>
+  </p>
+
+2. **Verificar instalacion**
+- Verificar con "flutter doctor" dentro de una terminarl en visual studio code
+     <p align="center">
+  <img src="../imgs/verificacion_flutter_visio.png" alt="Extension visio" width="500"/>
+  </p>
 
 ### **Android Studio + Emulador**
 
