@@ -4,7 +4,7 @@ A continuación, se presentan los requerimientos funcionales del sistema **OneSc
 
 ---
 
-### 🔹 Módulo 1: Gestión de Usuarios y Perfiles
+### Módulo 1: Gestión de Usuarios y Perfiles
 
 | ID     | Nombre                       | Actor   | Descripción                                                                 | Precondiciones     | Resultado Esperado                                                                 |
 |--------|------------------------------|---------|------------------------------------------------------------------------------|---------------------|-------------------------------------------------------------------------------------|
@@ -18,7 +18,7 @@ A continuación, se presentan los requerimientos funcionales del sistema **OneSc
 
 ---
 
-### 🔹 Módulo 2: Exploración de Contenido
+### Módulo 2: Exploración de Contenido
 
 | ID     | Nombre                           | Actor   | Descripción                                                                                     | Precondiciones     | Resultado Esperado                                                                            |
 |--------|----------------------------------|---------|--------------------------------------------------------------------------------------------------|---------------------|----------------------------------------------------------------------------------------------|
@@ -31,7 +31,7 @@ A continuación, se presentan los requerimientos funcionales del sistema **OneSc
 
 ---
 
-### 🔹 Módulo 3: Valoración de Álbumes
+### Módulo 3: Valoración de Álbumes
 
 | ID     | Nombre                   | Actor   | Descripción                                                                           | Precondiciones             | Resultado Esperado                                                           |
 |--------|--------------------------|---------|----------------------------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------|
@@ -49,30 +49,30 @@ A continuación, se presentan los requerimientos funcionales del sistema **OneSc
 | RF_18 | Generación de recomendaciones | Sistema | Analiza hábitos musicales del usuario para mostrar sugerencias personalizadas. | Usuario con historial        | Se muestra un resumen con artista recomendado y 3 álbumes similares.         |
 | RF_19 | Visualización de recomendaciones | Usuario | Permite acceder a un resumen con recomendaciones desde la homepage.           | Usuario autenticado          | Se visualizan sugerencias personalizadas en la sección correspondiente.      |
 
-## 🎲 Diagramas de Casos de Uso
+## Diagramas de Casos de Uso
 El diagrama de casos de uso del sistema **OneScore** representa de forma visual las principales interacciones entre los **actores** (Usuario y Sistema) y las **funcionalidades clave** del sistema, organizadas en los siguientes módulos:
 
-### 🔹 Gestión de Usuarios y Perfiles
+### Gestión de Usuarios y Perfiles
 Incluye funcionalidades como:
 - Registro de usuario.
 - Autenticación de usuario.
 - Visualización del perfil.
 - Navegación hacia artistas y álbumes.
 
-### 🔹 Exploración de Contenido
+### Exploración de Contenido
 Permite al usuario:
 - Acceder a la pantalla principal (homepage).
 - Buscar álbumes y artistas mediante texto y filtros.
 - Visualizar información detallada de un álbum.
 - Buscar y explorar perfiles de otros usuarios.
 
-### 🔹 Gestión de Valoración de Álbumes
+### Gestión de Valoración de Álbumes
 Proporciona herramientas para:
 - Asignar una puntuación a cada track de un álbum.
 - Finalizar la valoración cuando todos los tracks estén evaluados.
 - Modificar valoraciones previas.
 
-### 🔹 Gestión de Recomendaciones
+### Gestión de Recomendaciones
 Incorpora funcionalidades automáticas para:
 - Generar recomendaciones musicales a partir del historial del usuario.
 - Visualizar sugerencias personalizadas desde la homepage.
