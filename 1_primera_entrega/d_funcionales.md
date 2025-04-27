@@ -11,8 +11,8 @@ A continuación, se presentan los requerimientos funcionales del sistema **OneSc
 | RF_01 | Registro de usuario          | Usuario | Permite al usuario crear una cuenta mediante un formulario con datos personales. | No estar registrado | El usuario queda registrado correctamente y puede iniciar sesión.                 |
 | RF_02 | Autenticación de usuario     | Usuario | Permite al usuario iniciar sesión con su correo/nickname y contraseña.         | Estar registrado    | El sistema autentica al usuario y lo redirige a su perfil.                        |
 | RF_03 | Visualización del perfil     | Usuario | Muestra los datos personales del usuario y sus estadísticas musicales.         | Usuario autenticado | Se visualiza la información completa del perfil, álbumes y artistas.              |
-| RF_04 | Visualización de artistas | Usuario | Permite al usuario visualizar los artistas que escucha | Usuario autenticado | El sistema muestra todos los artistas escuchados o por escuchar, con lo opción de mostrar: todos, escuchado, por valorar  |
-| RF_05 | Visualización de albums | Usuario | Permite al usuario visualizar los albums que escucha | Usuario autenticado | El sistema muestra todos los albums escuchados o por escuchar, con lo opción de mostrar: todos, rank, género, por valorar  |
+| RF_04 | Visualización de artistas | Usuario | Permite al usuario visualizar a todos los artistas que escucha | Usuario autenticado | El sistema muestra todos los artistas escuchados o por escuchar, con lo opción de mostrar: todos, escuchado, por valorar  |
+| RF_05 | Visualización de albums | Usuario | Permite al usuario visualizar todos los albums que escucha | Usuario autenticado | El sistema muestra todos los albums escuchados o por escuchar, con lo opción de mostrar: todos, escuchados y por valorar  |
 | RF_06 | Edición del perfil| Usuario | Permite al usuario editar su perfil correo, nickname y foto. | Usuario autenticado | El sistema actualiza los nuevos del usuario usuario.                   |
 | RF_07 | Cambio de contraseña | Usuario | Permite al usuario cambiar su antigua contraseña por una nueva. | Usuario autenticado | El sistema actualiza los nuevos del usuario usuario.                   |
 
@@ -31,7 +31,7 @@ A continuación, se presentan los requerimientos funcionales del sistema **OneSc
 
 ---
 
-### 🔹 Módulo 3: Gestión de Valoración de Álbumes
+### 🔹 Módulo 3: Valoración de Álbumes
 
 | ID     | Nombre                   | Actor   | Descripción                                                                           | Precondiciones             | Resultado Esperado                                                           |
 |--------|--------------------------|---------|----------------------------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------|
