@@ -31,3 +31,5 @@ Este despliegue está diseñado para cumplir con los siguientes criterios no fun
 
 ![Diagrama de despliegue](../imgs/diagrama_despliegue.png)  
 Diagrama de despliegue
+
+# VERIFICAR LO ÚLTIMO (en azure a parte, o con sqlite o replit)
