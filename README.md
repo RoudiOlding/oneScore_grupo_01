@@ -9,5 +9,5 @@ OneScore es un aplicativo movil diseñado para los amantes de la música, críti
 - Cuella Contrerras, Luis Angel
 
 ### Diagrama de clases:
-![Diagrama de clases](imgs/diagramaClases.jpg)
+![Diagrama de clases](imgs/diagrama_clases.jpg)
 Diagrama de clases de OneScore
