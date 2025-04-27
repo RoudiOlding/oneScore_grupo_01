@@ -6,7 +6,7 @@ Cada requisito cuenta con un identificador, nombre, categoría, prioridad y una 
 
 ---
 
-## 💎 RNF Generales del Sistema
+## RNF Generales del Sistema
 
 | ID     | Nombre                         | Categoría     | Prioridad | Descripción |
 |--------|--------------------------------|----------------|-----------|-------------|
@@ -19,7 +19,7 @@ Cada requisito cuenta con un identificador, nombre, categoría, prioridad y una 
 
 ---
 
-## 🔸 Módulo 1: Gestión de Usuarios y Perfiles
+## Módulo 1: Gestión de Usuarios y Perfiles
 
 | ID     | Nombre                         | Categoría     | Prioridad | Descripción |
 |--------|--------------------------------|----------------|-----------|-------------|
@@ -29,7 +29,7 @@ Cada requisito cuenta con un identificador, nombre, categoría, prioridad y una 
 
 ---
 
-## 🔸 Módulo 2: Exploración de Contenido
+## Módulo 2: Exploración de Contenido
 
 | ID     | Nombre                         | Categoría     | Prioridad | Descripción |
 |--------|--------------------------------|----------------|-----------|-------------|
@@ -39,7 +39,7 @@ Cada requisito cuenta con un identificador, nombre, categoría, prioridad y una 
 
 ---
 
-## 🔸 Módulo 3: Valoración de Álbumes
+## Módulo 3: Valoración de Álbumes
 
 | ID     | Nombre                         | Categoría     | Prioridad | Descripción |
 |--------|--------------------------------|----------------|-----------|-------------|
@@ -48,7 +48,7 @@ Cada requisito cuenta con un identificador, nombre, categoría, prioridad y una 
 
 ---
 
-## 🔸 Módulo 4: Recomendaciones
+## Módulo 4: Recomendaciones
 
 | ID     | Nombre                         | Categoría     | Prioridad | Descripción |
 |--------|--------------------------------|----------------|-----------|-------------|
