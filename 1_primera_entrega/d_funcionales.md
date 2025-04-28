@@ -42,7 +42,7 @@ A continuación, se presentan los requerimientos funcionales del sistema **OneSc
 
 ---
 
-### 🔹 Módulo 4: Gestión de Recomendaciones
+### Módulo 4: Gestión de Recomendaciones
 
 | ID     | Nombre                        | Actor   | Descripción                                                                 | Precondiciones              | Resultado Esperado                                                           |
 |--------|-------------------------------|---------|------------------------------------------------------------------------------|------------------------------|-------------------------------------------------------------------------------|
