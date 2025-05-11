@@ -1,0 +1,64 @@
+@startuml
+
+class Genre {
+    +id: int <pk>
+    +name:String
+}
+
+class Album {
+    +id: int <pk>
+    +title: String
+    +release_year: int
+    +genre_id: int <fk>
+    +cover_url: String
+    +artist_id: int <fk>
+}
+
+class Artist {
+    +id: int <pk>
+    +name: String
+    +genre_id: int <fk>
+    +picture_url: String
+}
+
+class Song {
+    +id: int <pk>
+    +title: String
+    +n_track: int
+    +album_id: int <fk>
+}
+
+class User{
+    +id: int <fk>
+    +name: String
+    +last_name: String
+    +nickname: String
+    +mail:String
+    +password: String
+}
+
+class Album_User{
+    +user_id: int <fk>
+    +album_id: int <fk>
+    +rank_date: Date
+    +rank_state: Enum
+    +review: String
+}
+
+class Song_User{
+    +user_id:int <fk>
+    +song_id:int <fk>
+    +score: int
+}
+
+
+Genre "1"--"m" Artist
+Artist "1"--"m" Album
+Genre "1"--"m" Album
+Album_User "m"--"1" Album
+User "1"--"m" Album_User
+Song "1"--"m" Album
+Song "1"--"m" Song_User
+User "1"--"m" Song_User
+
+@enduml
