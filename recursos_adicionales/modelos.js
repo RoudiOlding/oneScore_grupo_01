@@ -26,6 +26,10 @@ const Artist = sequelize.define('Artist', {
     type: DataTypes.STRING(25),
     allowNull: false,
   },
+  debut_year:{
+    type: DataTypes.INTEGER,
+    allowNull:false,
+  },
   genre_id: {
     type: DataTypes.INTEGER,
     references: {
