@@ -17,6 +17,7 @@ class Album {
 class Artist {
     +id: int <pk>
     +name: String
+    +debut_year: int 
     +genre_id: int <fk>
     +picture_url: String
 }
