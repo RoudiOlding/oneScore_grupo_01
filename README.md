@@ -3,7 +3,7 @@ OneScore es un aplicativo movil diseñado para los amantes de la música, críti
 
 
 ### Team Deveolper:
-- De los Ríos Rojas, Rdorigo Francisco
+- De los Ríos Rojas, Rodrigo Francisco
 - Camayo Ramos, Sebastián Enrique
 - La Torre Llusera, Oscar Joaquin
 - Cuella Contrerras, Luis Angel
