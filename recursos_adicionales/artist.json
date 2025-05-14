@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Artist 1",
+        "debut_year": 2000,
+        "genre_id": 1,
+        "picture_url": "http://example.com/artist_1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Artist 2",
+        "debut_year": 2001,
+        "genre_id": 2,
+        "picture_url": "http://example.com/artist_2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Artist 3",
+        "debut_year": 2002,
+        "genre_id": 3,
+        "picture_url": "http://example.com/artist_3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Artist 4",
+        "debut_year": 2003,
+        "genre_id": 4,
+        "picture_url": "http://example.com/artist_4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Artist 5",
+        "debut_year": 2004,
+        "genre_id": 5,
+        "picture_url": "http://example.com/artist_5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Artist 6",
+        "debut_year": 2005,
+        "genre_id": 6,
+        "picture_url": "http://example.com/artist_6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Artist 7",
+        "debut_year": 2006,
+        "genre_id": 7,
+        "picture_url": "http://example.com/artist_7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Artist 8",
+        "debut_year": 2007,
+        "genre_id": 8,
+        "picture_url": "http://example.com/artist_8.jpg"
+    }
+]

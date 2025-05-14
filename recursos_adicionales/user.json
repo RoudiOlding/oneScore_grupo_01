@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "User1",
+        "last_name": "Last1",
+        "nickname": "user_1",
+        "mail": "user1@mail.com",
+        "password": "pass1!"
+    },
+    {
+        "id": 2,
+        "name": "User2",
+        "last_name": "Last2",
+        "nickname": "user_2",
+        "mail": "user2@mail.com",
+        "password": "pass2!"
+    },
+    {
+        "id": 3,
+        "name": "User3",
+        "last_name": "Last3",
+        "nickname": "user_3",
+        "mail": "user3@mail.com",
+        "password": "pass3!"
+    },
+    {
+        "id": 4,
+        "name": "User4",
+        "last_name": "Last4",
+        "nickname": "user_4",
+        "mail": "user4@mail.com",
+        "password": "pass4!"
+    },
+    {
+        "id": 5,
+        "name": "User5",
+        "last_name": "Last5",
+        "nickname": "user_5",
+        "mail": "user5@mail.com",
+        "password": "pass5!"
+    },
+    {
+        "id": 6,
+        "name": "User6",
+        "last_name": "Last6",
+        "nickname": "user_6",
+        "mail": "user6@mail.com",
+        "password": "pass6!"
+    },
+    {
+        "id": 7,
+        "name": "User7",
+        "last_name": "Last7",
+        "nickname": "user_7",
+        "mail": "user7@mail.com",
+        "password": "pass7!"
+    },
+    {
+        "id": 8,
+        "name": "User8",
+        "last_name": "Last8",
+        "nickname": "user_8",
+        "mail": "user8@mail.com",
+        "password": "pass8!"
+    }
+]

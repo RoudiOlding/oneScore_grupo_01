@@ -1,0 +1,102 @@
+[
+    {
+        "user_id": 3,
+        "song_id": 27,
+        "score": 1
+    },
+    {
+        "user_id": 2,
+        "song_id": 21,
+        "score": 2
+    },
+    {
+        "user_id": 6,
+        "song_id": 39,
+        "score": 4
+    },
+    {
+        "user_id": 8,
+        "song_id": 31,
+        "score": 10
+    },
+    {
+        "user_id": 7,
+        "song_id": 40,
+        "score": 10
+    },
+    {
+        "user_id": 4,
+        "song_id": 30,
+        "score": 7
+    },
+    {
+        "user_id": 7,
+        "song_id": 9,
+        "score": 5
+    },
+    {
+        "user_id": 7,
+        "song_id": 37,
+        "score": 8
+    },
+    {
+        "user_id": 2,
+        "song_id": 10,
+        "score": 3
+    },
+    {
+        "user_id": 6,
+        "song_id": 17,
+        "score": 2
+    },
+    {
+        "user_id": 5,
+        "song_id": 39,
+        "score": 3
+    },
+    {
+        "user_id": 7,
+        "song_id": 30,
+        "score": 5
+    },
+    {
+        "user_id": 2,
+        "song_id": 2,
+        "score": 2
+    },
+    {
+        "user_id": 1,
+        "song_id": 28,
+        "score": 7
+    },
+    {
+        "user_id": 2,
+        "song_id": 32,
+        "score": 3
+    },
+    {
+        "user_id": 1,
+        "song_id": 30,
+        "score": 1
+    },
+    {
+        "user_id": 6,
+        "song_id": 13,
+        "score": 10
+    },
+    {
+        "user_id": 4,
+        "song_id": 15,
+        "score": 4
+    },
+    {
+        "user_id": 2,
+        "song_id": 21,
+        "score": 4
+    },
+    {
+        "user_id": 8,
+        "song_id": 25,
+        "score": 3
+    }
+]

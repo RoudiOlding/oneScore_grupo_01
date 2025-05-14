@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Album 1",
+        "release_year": 2010,
+        "genre_id": 1,
+        "cover_url": "http://example.com/album_1.jpg",
+        "artist_id": 1
+    },
+    {
+        "id": 2,
+        "title": "Album 2",
+        "release_year": 2011,
+        "genre_id": 2,
+        "cover_url": "http://example.com/album_2.jpg",
+        "artist_id": 2
+    },
+    {
+        "id": 3,
+        "title": "Album 3",
+        "release_year": 2012,
+        "genre_id": 3,
+        "cover_url": "http://example.com/album_3.jpg",
+        "artist_id": 3
+    },
+    {
+        "id": 4,
+        "title": "Album 4",
+        "release_year": 2013,
+        "genre_id": 4,
+        "cover_url": "http://example.com/album_4.jpg",
+        "artist_id": 4
+    },
+    {
+        "id": 5,
+        "title": "Album 5",
+        "release_year": 2014,
+        "genre_id": 5,
+        "cover_url": "http://example.com/album_5.jpg",
+        "artist_id": 5
+    },
+    {
+        "id": 6,
+        "title": "Album 6",
+        "release_year": 2015,
+        "genre_id": 6,
+        "cover_url": "http://example.com/album_6.jpg",
+        "artist_id": 6
+    },
+    {
+        "id": 7,
+        "title": "Album 7",
+        "release_year": 2016,
+        "genre_id": 7,
+        "cover_url": "http://example.com/album_7.jpg",
+        "artist_id": 7
+    },
+    {
+        "id": 8,
+        "title": "Album 8",
+        "release_year": 2017,
+        "genre_id": 8,
+        "cover_url": "http://example.com/album_8.jpg",
+        "artist_id": 8
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Rock"
+    },
+    {
+        "id": 2,
+        "name": "Pop"
+    },
+    {
+        "id": 3,
+        "name": "Hip-Hop"
+    },
+    {
+        "id": 4,
+        "name": "Jazz"
+    },
+    {
+        "id": 5,
+        "name": "Electronic"
+    },
+    {
+        "id": 6,
+        "name": "Reggaeton"
+    },
+    {
+        "id": 7,
+        "name": "Classical"
+    },
+    {
+        "id": 8,
+        "name": "Metal"
+    },
+    {
+        "id": 9,
+        "name": "Salsa"
+    },
+    {
+        "id": 10,
+        "name": "Blues"
+    },
+    {
+        "id": 11,
+        "name": "Funk"
+    },
+    {
+        "id": 12,
+        "name": "Folk"
+    },
+    {
+        "id": 13,
+        "name": "Alternative"
+    },
+    {
+        "id": 14,
+        "name": "K-Pop"
+    },
+    {
+        "id": 15,
+        "name": "R&B"
+    }
+]
